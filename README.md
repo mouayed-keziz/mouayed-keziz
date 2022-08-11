@@ -8,17 +8,6 @@ Im Keziz Mouayed, computer science student at ESTIN-Bejaia in Algeria - Im inter
 - Mobile App Development (java, kotlin, react-native-expo, flutter, firebase)
 - Automation (python)
 
-## 🔭 Activity:
-
-- I’m currently working on my portfolio, check out [this repository](https://github.com/mouayedKeziz01/ElMOU-CHAT) and the mortfolio project in the projects section.
-
-## 📞 Contact me:
-
-this is my email : m_keziz@estin.dz - mouayed0001@gmail.com  
-this is my linkedin : https://dz.linkedin.com/in/mouayed-keziz-bb2862232  
-this is my facebook : https://www.facebook.com/keziz.mouayed  
-this is my instagram : https://www.instagram.com/m.o.u.a.y.e.d/
-
 <!--
 **mouayedKeziz01/mouayedKeziz01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
