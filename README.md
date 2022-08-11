@@ -7,7 +7,7 @@ Im Keziz Mouayed, computer science student at ESTIN-Bejaia in Algeria - Im inter
 - Web Development (react, express, mongodb, redux, bootstrap, materialUI, mantine, framerMotion) 
 - Mobile App Development (java, kotlin, react-native-expo, flutter, firebase)
 - Automation (python)
-- 
+
 <!--
 
 
