@@ -6,23 +6,20 @@ Im Keziz Mouayed, computer science student at ESTIN-Bejaia in Algeria - Im inter
 
 - Web Development (react, express, mongodb, redux, bootstrap, materialUI, mantine, framerMotion) 
 - Mobile App Development (java, kotlin, react-native-expo, flutter)
-- Tools (linux, git, github, heroku, netlify npm-package-manager, firebase, supabase)
+- Tools (linux, git, github, heroku, netlify, npm-package-manager, chocolatey-package-manager, firebase, supabase)
+- Machine learnine (brain js)
 - Automation (python)
 
+
+
+
+
+
+
+
+
+
 <!--
-
-
-
-
-
-
-
-
-
-
-
-
-
 **mouayedKeziz01/mouayedKeziz01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
