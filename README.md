@@ -1,13 +1,5 @@
 # Hi 👋, I'm Mouayed Keziz
-<h3 align="center">A passionate full stack developer from Algeria</h3>
-
-- 🔭 I’m currently working on **my portfolio**
-
-- 🌱 I’m currently learning **machine learning, networking**
-
 - 👨‍💻 All of my projects are available at [https://mouayed-keziz.web.app/](https://mouayed-keziz.web.app/)
-
-- 💬 Ask me about **mern, android**
 
 - 📫 How to reach me **m_keziz@estin.dz**
 
