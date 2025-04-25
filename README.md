@@ -18,9 +18,10 @@
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=mouayed-keziz&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 -->
+![](https://nirzak-streak-stats.vercel.app/?user=mouayed-keziz&theme=dark&hide_border=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mouayed-keziz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mouayed-keziz&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-![](https://nirzak-streak-stats.vercel.app/?user=mouayed-keziz&theme=dark&hide_border=false)
+
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
